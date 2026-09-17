@@ -10,7 +10,7 @@ export default function AboutUs() {
     <main className="min-h-screen bg-[#F4F8FC] text-[#1C2333]">
 
       {/* ================================================================
-          HEADER
+          TODO HEADER
           SAME STYLE AS LANDING PAGE
       ================================================================= */}
 
